@@ -1,0 +1,7 @@
+{
+  "name": "dog",
+  "symbol": "dog",
+  "description": "Website: https://justadog.xyz/. Telegram: https://t.me/justadogonsol. X: https://twitter.com/justadogsol.",
+  "image": "https://raw.githubusercontent.com/justadogonsolana/justadog/main/dog.png",
+  "extensions":{"website":"https://justadog.xyz/","twitter":"https://twitter.com/justadogsol","telegram":"https://t.me/justadogonsol"},"tags":[],"creator":{"name":"a dog","site":""}
+}
